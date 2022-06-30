@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="side">Sisi</string>
+    <string name="result">Hasil</string>
+    <string name="jariJari">Jari-Jari</string>
+    <string name="biodata_app">Crud Biodata Sederhana</string>
+    <string name="volume_balok_app">Hitung Volume Balok</string>
+    <string name="volume_bola_app">Hitung Volume Bola</string>
+    <string name="notepad">Notepad Sederhana</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="logout">Logout</string>
+    <string name="side_length">Panjang Sisi</string>
+    <string name="height_pyramid">Tinggi Limas</string>
+    <string name="side_height_pyramid">Tinggi Sisi</string>
+    <string name="jari_jari">Jari-jari</string>
+    <string name="height">Tinggi</string>
+
+</resources>
